@@ -1,0 +1,14 @@
+C:\Users\mario\source\repos\ConstantMethod\ConstantMethod\bin\Debug\netcoreapp3.1\ConstantMethod.exe
+C:\Users\mario\source\repos\ConstantMethod\ConstantMethod\bin\Debug\netcoreapp3.1\ConstantMethod.deps.json
+C:\Users\mario\source\repos\ConstantMethod\ConstantMethod\bin\Debug\netcoreapp3.1\ConstantMethod.runtimeconfig.json
+C:\Users\mario\source\repos\ConstantMethod\ConstantMethod\bin\Debug\netcoreapp3.1\ConstantMethod.runtimeconfig.dev.json
+C:\Users\mario\source\repos\ConstantMethod\ConstantMethod\bin\Debug\netcoreapp3.1\ConstantMethod.dll
+C:\Users\mario\source\repos\ConstantMethod\ConstantMethod\bin\Debug\netcoreapp3.1\ConstantMethod.pdb
+C:\Users\mario\source\repos\ConstantMethod\ConstantMethod\obj\Debug\netcoreapp3.1\ConstantMethod.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\ConstantMethod\ConstantMethod\obj\Debug\netcoreapp3.1\ConstantMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\ConstantMethod\ConstantMethod\obj\Debug\netcoreapp3.1\ConstantMethod.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\ConstantMethod\ConstantMethod\obj\Debug\netcoreapp3.1\ConstantMethod.AssemblyInfo.cs
+C:\Users\mario\source\repos\ConstantMethod\ConstantMethod\obj\Debug\netcoreapp3.1\ConstantMethod.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ConstantMethod\ConstantMethod\obj\Debug\netcoreapp3.1\ConstantMethod.dll
+C:\Users\mario\source\repos\ConstantMethod\ConstantMethod\obj\Debug\netcoreapp3.1\ConstantMethod.pdb
+C:\Users\mario\source\repos\ConstantMethod\ConstantMethod\obj\Debug\netcoreapp3.1\ConstantMethod.genruntimeconfig.cache
