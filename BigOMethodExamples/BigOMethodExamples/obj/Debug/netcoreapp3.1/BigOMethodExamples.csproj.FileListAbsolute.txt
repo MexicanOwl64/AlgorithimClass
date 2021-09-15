@@ -1,0 +1,14 @@
+C:\Users\mario\source\repos\BigOMethodExamples\BigOMethodExamples\bin\Debug\netcoreapp3.1\BigOMethodExamples.exe
+C:\Users\mario\source\repos\BigOMethodExamples\BigOMethodExamples\bin\Debug\netcoreapp3.1\BigOMethodExamples.deps.json
+C:\Users\mario\source\repos\BigOMethodExamples\BigOMethodExamples\bin\Debug\netcoreapp3.1\BigOMethodExamples.runtimeconfig.json
+C:\Users\mario\source\repos\BigOMethodExamples\BigOMethodExamples\bin\Debug\netcoreapp3.1\BigOMethodExamples.runtimeconfig.dev.json
+C:\Users\mario\source\repos\BigOMethodExamples\BigOMethodExamples\bin\Debug\netcoreapp3.1\BigOMethodExamples.dll
+C:\Users\mario\source\repos\BigOMethodExamples\BigOMethodExamples\bin\Debug\netcoreapp3.1\BigOMethodExamples.pdb
+C:\Users\mario\source\repos\BigOMethodExamples\BigOMethodExamples\obj\Debug\netcoreapp3.1\BigOMethodExamples.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\BigOMethodExamples\BigOMethodExamples\obj\Debug\netcoreapp3.1\BigOMethodExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\BigOMethodExamples\BigOMethodExamples\obj\Debug\netcoreapp3.1\BigOMethodExamples.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\BigOMethodExamples\BigOMethodExamples\obj\Debug\netcoreapp3.1\BigOMethodExamples.AssemblyInfo.cs
+C:\Users\mario\source\repos\BigOMethodExamples\BigOMethodExamples\obj\Debug\netcoreapp3.1\BigOMethodExamples.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\BigOMethodExamples\BigOMethodExamples\obj\Debug\netcoreapp3.1\BigOMethodExamples.dll
+C:\Users\mario\source\repos\BigOMethodExamples\BigOMethodExamples\obj\Debug\netcoreapp3.1\BigOMethodExamples.pdb
+C:\Users\mario\source\repos\BigOMethodExamples\BigOMethodExamples\obj\Debug\netcoreapp3.1\BigOMethodExamples.genruntimeconfig.cache
