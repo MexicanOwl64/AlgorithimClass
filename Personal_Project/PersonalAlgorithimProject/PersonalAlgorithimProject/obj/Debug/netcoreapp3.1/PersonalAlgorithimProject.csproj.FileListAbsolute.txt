@@ -1,0 +1,14 @@
+C:\Users\mario\source\repos\PersonalAlgorithimProject\PersonalAlgorithimProject\bin\Debug\netcoreapp3.1\PersonalAlgorithimProject.exe
+C:\Users\mario\source\repos\PersonalAlgorithimProject\PersonalAlgorithimProject\bin\Debug\netcoreapp3.1\PersonalAlgorithimProject.deps.json
+C:\Users\mario\source\repos\PersonalAlgorithimProject\PersonalAlgorithimProject\bin\Debug\netcoreapp3.1\PersonalAlgorithimProject.runtimeconfig.json
+C:\Users\mario\source\repos\PersonalAlgorithimProject\PersonalAlgorithimProject\bin\Debug\netcoreapp3.1\PersonalAlgorithimProject.runtimeconfig.dev.json
+C:\Users\mario\source\repos\PersonalAlgorithimProject\PersonalAlgorithimProject\bin\Debug\netcoreapp3.1\PersonalAlgorithimProject.dll
+C:\Users\mario\source\repos\PersonalAlgorithimProject\PersonalAlgorithimProject\bin\Debug\netcoreapp3.1\PersonalAlgorithimProject.pdb
+C:\Users\mario\source\repos\PersonalAlgorithimProject\PersonalAlgorithimProject\obj\Debug\netcoreapp3.1\PersonalAlgorithimProject.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\PersonalAlgorithimProject\PersonalAlgorithimProject\obj\Debug\netcoreapp3.1\PersonalAlgorithimProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\PersonalAlgorithimProject\PersonalAlgorithimProject\obj\Debug\netcoreapp3.1\PersonalAlgorithimProject.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\PersonalAlgorithimProject\PersonalAlgorithimProject\obj\Debug\netcoreapp3.1\PersonalAlgorithimProject.AssemblyInfo.cs
+C:\Users\mario\source\repos\PersonalAlgorithimProject\PersonalAlgorithimProject\obj\Debug\netcoreapp3.1\PersonalAlgorithimProject.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\PersonalAlgorithimProject\PersonalAlgorithimProject\obj\Debug\netcoreapp3.1\PersonalAlgorithimProject.dll
+C:\Users\mario\source\repos\PersonalAlgorithimProject\PersonalAlgorithimProject\obj\Debug\netcoreapp3.1\PersonalAlgorithimProject.pdb
+C:\Users\mario\source\repos\PersonalAlgorithimProject\PersonalAlgorithimProject\obj\Debug\netcoreapp3.1\PersonalAlgorithimProject.genruntimeconfig.cache
