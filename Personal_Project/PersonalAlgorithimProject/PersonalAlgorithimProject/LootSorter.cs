@@ -6,7 +6,7 @@ using static System.Console;
 
 namespace PersonalAlgorithimProject
 {
-    class LootSorter //Program should help you create a list, sort, add, and delete your loot 
+    class LootSorter : InventoryList //Program should help you create a list, sort, add, and delete your loot 
     {
         //Get from player
         public string itemName;

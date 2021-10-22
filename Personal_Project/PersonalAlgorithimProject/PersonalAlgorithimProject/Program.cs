@@ -1,5 +1,5 @@
 ﻿using System;
-
+using static System.Console;
 namespace PersonalAlgorithimProject
 {
     class Program
@@ -7,15 +7,15 @@ namespace PersonalAlgorithimProject
         static void Main(string[] args)
         {
             //Organize Later
-            LootSorter sort = new LootSorter();
+            //InventoryList List = new InventoryList();
             Introduction intro = new Introduction();
             intro.Intro();
-            
+
+
+            //List.PrintListName();
+            ReadKey();
             //Get rid of all these and only call Intro/Menu (Change Later)
-            sort.ListLoot();
-            sort.SortLoot();
-            sort.AddLoot();
-            sort.DeleteLoot();
+            
         }
     }
 }

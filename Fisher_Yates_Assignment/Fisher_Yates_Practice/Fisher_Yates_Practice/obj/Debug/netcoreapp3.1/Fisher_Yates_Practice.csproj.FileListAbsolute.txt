@@ -1,0 +1,14 @@
+C:\Users\mario\Documents\GitHub\AlgorithimClass\Fisher_Yates_Assignment\Fisher_Yates_Practice\Fisher_Yates_Practice\bin\Debug\netcoreapp3.1\Fisher_Yates_Practice.exe
+C:\Users\mario\Documents\GitHub\AlgorithimClass\Fisher_Yates_Assignment\Fisher_Yates_Practice\Fisher_Yates_Practice\bin\Debug\netcoreapp3.1\Fisher_Yates_Practice.deps.json
+C:\Users\mario\Documents\GitHub\AlgorithimClass\Fisher_Yates_Assignment\Fisher_Yates_Practice\Fisher_Yates_Practice\bin\Debug\netcoreapp3.1\Fisher_Yates_Practice.runtimeconfig.json
+C:\Users\mario\Documents\GitHub\AlgorithimClass\Fisher_Yates_Assignment\Fisher_Yates_Practice\Fisher_Yates_Practice\bin\Debug\netcoreapp3.1\Fisher_Yates_Practice.runtimeconfig.dev.json
+C:\Users\mario\Documents\GitHub\AlgorithimClass\Fisher_Yates_Assignment\Fisher_Yates_Practice\Fisher_Yates_Practice\bin\Debug\netcoreapp3.1\Fisher_Yates_Practice.dll
+C:\Users\mario\Documents\GitHub\AlgorithimClass\Fisher_Yates_Assignment\Fisher_Yates_Practice\Fisher_Yates_Practice\bin\Debug\netcoreapp3.1\Fisher_Yates_Practice.pdb
+C:\Users\mario\Documents\GitHub\AlgorithimClass\Fisher_Yates_Assignment\Fisher_Yates_Practice\Fisher_Yates_Practice\obj\Debug\netcoreapp3.1\Fisher_Yates_Practice.csproj.AssemblyReference.cache
+C:\Users\mario\Documents\GitHub\AlgorithimClass\Fisher_Yates_Assignment\Fisher_Yates_Practice\Fisher_Yates_Practice\obj\Debug\netcoreapp3.1\Fisher_Yates_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Documents\GitHub\AlgorithimClass\Fisher_Yates_Assignment\Fisher_Yates_Practice\Fisher_Yates_Practice\obj\Debug\netcoreapp3.1\Fisher_Yates_Practice.AssemblyInfoInputs.cache
+C:\Users\mario\Documents\GitHub\AlgorithimClass\Fisher_Yates_Assignment\Fisher_Yates_Practice\Fisher_Yates_Practice\obj\Debug\netcoreapp3.1\Fisher_Yates_Practice.AssemblyInfo.cs
+C:\Users\mario\Documents\GitHub\AlgorithimClass\Fisher_Yates_Assignment\Fisher_Yates_Practice\Fisher_Yates_Practice\obj\Debug\netcoreapp3.1\Fisher_Yates_Practice.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\GitHub\AlgorithimClass\Fisher_Yates_Assignment\Fisher_Yates_Practice\Fisher_Yates_Practice\obj\Debug\netcoreapp3.1\Fisher_Yates_Practice.dll
+C:\Users\mario\Documents\GitHub\AlgorithimClass\Fisher_Yates_Assignment\Fisher_Yates_Practice\Fisher_Yates_Practice\obj\Debug\netcoreapp3.1\Fisher_Yates_Practice.pdb
+C:\Users\mario\Documents\GitHub\AlgorithimClass\Fisher_Yates_Assignment\Fisher_Yates_Practice\Fisher_Yates_Practice\obj\Debug\netcoreapp3.1\Fisher_Yates_Practice.genruntimeconfig.cache

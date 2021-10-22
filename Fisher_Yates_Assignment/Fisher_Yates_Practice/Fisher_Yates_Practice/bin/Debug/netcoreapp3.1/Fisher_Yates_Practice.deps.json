@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fisher_Yates_Practice/1.0.0": {
+        "runtime": {
+          "Fisher_Yates_Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fisher_Yates_Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
