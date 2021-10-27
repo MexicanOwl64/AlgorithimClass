@@ -32,7 +32,7 @@ namespace PersonalAlgorithimProject
             WriteLine("Option 5: Exit the program"); //closes the program
         }
 
-        public void OptionSelected()
+        public void OptionSelected() // Option menu set up
         {
             string choice;
             choice = ReadLine();
@@ -50,7 +50,7 @@ namespace PersonalAlgorithimProject
                 case "2": //adds item
                     WriteLine("Option 2 Selected\n");
                     List.itemAdded();
-                    WriteLine("new item added\n");
+                    
                     break;
 
                 case "3": //organize items

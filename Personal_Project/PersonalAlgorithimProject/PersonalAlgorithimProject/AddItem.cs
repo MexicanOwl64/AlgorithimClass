@@ -9,7 +9,13 @@ namespace PersonalAlgorithimProject
     {
         public void AddingItems()
         {
-          //  itemList.Add("item6");
+            WriteLine("Add a name of the Item");
+            string nameItem = ReadLine();
+
+            WriteLine("What rarity is the item");
+            string typeItem = ReadLine();
+
+            itemList.Add(new itemsTest() { ItemName = nameItem, ItemType = typeItem });
         }
 
     }
