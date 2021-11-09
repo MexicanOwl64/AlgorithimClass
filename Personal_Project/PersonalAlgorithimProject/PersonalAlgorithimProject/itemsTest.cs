@@ -11,9 +11,11 @@ namespace PersonalAlgorithimProject
             public string ItemName { get; set; } //Name of the list 
             public string ItemType { get; set; } // Type of Item
 
+            public int placeItem { get; set; } //gets the place holder to delete items
+
         public override string ToString()
         {
-            return "Item Name: " + ItemName + "   Type: " + ItemType;
+            return "Item Place: " + placeItem + "  Item Name: " + ItemName + "   Type: " + ItemType;
         }
         public override bool Equals(object obj) //checks the naming convention of the list
         {
@@ -22,14 +24,25 @@ namespace PersonalAlgorithimProject
             if (objAsPart == null) return false;
             else return Equals(objAsPart);
         }
-        
+
+        public override int GetHashCode()
+        {
+            return placeItem;
+        }
         public bool Equals(itemsTest other) // returns the item 
         {
             if (other == null) return false;
             return (this.ItemType.Equals(other.ItemName));
         }
 
-       
+       public enum itemType
+        {
+            Common,
+            Uncommon,
+            Rare,
+            Legendary,
+            Exotic
+        }
 
 
     }

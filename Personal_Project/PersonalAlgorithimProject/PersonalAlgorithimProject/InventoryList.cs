@@ -7,7 +7,7 @@ namespace PersonalAlgorithimProject
     class InventoryList : itemsTest
     {
         //AddItem add = new AddItem();
-
+        int position = 0;
         public List<itemsTest> itemList = new List<itemsTest>(); // { "item1", "item2", "item3", "item4", "item5" };
 
         
@@ -33,7 +33,7 @@ namespace PersonalAlgorithimProject
             itemList.Add(new itemsTest() { ItemName = "item2", ItemType = "legendary" });
             itemList.Add(new itemsTest() { ItemName = "item3", ItemType = "rare" });
             itemList.Add(new itemsTest() { ItemName = "item4", ItemType = "uncommon" });
-            itemList.Add(new itemsTest() { ItemName = "item5", ItemType = "common" });
+            itemList.Add(new itemsTest() { placeItem = 1, ItemName = "item5", ItemType = "common" });
         }
         public void itemAdded() // item added 
         {
@@ -42,12 +42,50 @@ namespace PersonalAlgorithimProject
             WriteLine("Add a name of the Item");
             string nameItem = ReadLine();
 
-            WriteLine("What rarity is the item");
-            string typeItem = ReadLine(); 
+            WriteLine("What type of rarity is the item of choice");
+            string rarityPick = ReadLine();
+            string typeItem = "null";
+            bool picking = false;
+
+            while (picking == false)
+            {
+                switch (rarityPick)
+                {
+                    case "1": //Common Item
+                        typeItem = "Common";
+                        
+                        break;
+
+                    case "2": //Uncommon Item
+                        typeItem = "Uncommon";
+                       
+                        //typeItem = ItemType;
+                        break;
+
+                    case "3": //Rare Item
+                        typeItem = "Rare";
+                        
+                        break;
+
+                    case "4": //Legendary Item
+                        typeItem = "Legendary";
+                        
+                        break;
+
+                    case "5": //Exotic Item
+                        typeItem = "Exotic";
+                        
+                        break;
+
+                }
+                picking = true;
+            }
 
             
-            
-            itemList.Add(new itemsTest() { ItemName = nameItem, ItemType = typeItem });
+            position =  position + 1;
+
+
+            itemList.Add(new itemsTest() {placeItem = position, ItemName = nameItem, ItemType = typeItem });
 
             WriteLine("New Item Added\n");
 
@@ -60,46 +98,28 @@ namespace PersonalAlgorithimProject
 
         }
 
-        public void itemDelete()
+        public void itemDelete() //method from delete class
         {
-            
-            //method from delete class
-        }
+            PrintListName();
+            WriteLine("Which item do you want to delete");
+            WriteLine("Pick a place value");
+            string numberPlace = ReadLine();
+            int itemPlace;
 
-
-
-        public void RarityPicker()
-        {
-            WriteLine("What type of rarity is the item of choice");
-            string rarityPick = ReadLine();
-            string typeItem; 
-
-            switch (rarityPick)
-            {
-                case "1": //Common Item
-                    typeItem = "Common";
-                break;
-
-                case "2": //Uncommon Item
-                    typeItem = "Uncommon";
-                    typeItem = ItemType;
-                    break;
-
-                case "3": //Rare Item
-                    typeItem = "Rare";
-                    break;
-
-                case "4": //Legendary Item
-                    typeItem = "Legendary";
-                    break;
-
-                case "5": //Exotic Item
-                    typeItem = "Exotic";
-                    break;
+            itemPlace = Convert.ToInt32(numberPlace);
+            itemPlace = itemPlace - 1;
+            if (itemPlace < placeItem)
+            { 
+            itemList.RemoveAt(itemPlace);
+            itemList.Add(new itemsTest() { placeItem = 1 - position });
             }
-
-
-
+            else
+            {
+                WriteLine("You have went either over or under the limit\n");
+            }
+            PrintListName();
         }
+
+        
     }
 }

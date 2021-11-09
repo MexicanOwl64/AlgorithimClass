@@ -27,9 +27,9 @@ namespace PersonalAlgorithimProject
         {
             WriteLine("Option 1: See the current list"); //Shows the list items that currenlty inside
             WriteLine("Option 2: Add to the List"); //Add items to the list
-            WriteLine("Option 3: Organize in the list"); // Organize the list
-            WriteLine("Option 4: Delete from the list"); //Delete items from the list
-            WriteLine("Option 5: Exit the program"); //closes the program
+            //WriteLine("Option 3: Organize in the list"); // Organize the list
+            WriteLine("Option 3: Delete from the list"); //Delete items from the list
+            WriteLine("Option 4: Exit the program"); //closes the program
         }
 
         public void OptionSelected() // Option menu set up
@@ -53,18 +53,18 @@ namespace PersonalAlgorithimProject
                     
                     break;
 
-                case "3": //organize items
-                    WriteLine("Option1 3 Selected\n");
-                    break;
+                //case "3": //organize items
+                  //  WriteLine("Option1 3 Selected\n");
+                    //break;
 
-                case "4": // delete items
-                    WriteLine("Option 4 Selected\n");
+                case "3": // delete items
+                    WriteLine("Option 3 Selected\n");
                     List.itemDelete();
-                    WriteLine("Item5 has been deleted\n");
+                   
                     break;
 
-                case "5": //exit program
-                    WriteLine("Option 5 Selected\n");
+                case "4": //exit program
+                    WriteLine("Option 4 Selected\n");
                     active = false;
                     break;
 
